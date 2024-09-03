@@ -1,0 +1,6 @@
+__pycache__
+.idea
+venv
+prototype1.py
+key.py
+*.txt
